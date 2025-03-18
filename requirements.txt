@@ -11,3 +11,7 @@ google-generativeai
 # Image Processing
 Pillow
 genai
+
+# Ensure compatibility
+tiktoken<0.5  # Avoids potential build issues
+protobuf==3.20.3  # Ensures compatibility with Google libraries
