@@ -70,7 +70,7 @@ def image_model(inputs: dict) -> dict:
     Return output as structured JSON.
     """
     try:
-        model = genai.GenerativeModel("gemini-1.5-flash-8b")
+        model = genai.GenerativeModel("gemini-2.0-flash")
         response = model.generate_content([pil_img, prompt])
         return response.text if isinstance(response.text, str) else "{}"
     except Exception as e:
