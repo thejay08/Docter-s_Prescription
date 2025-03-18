@@ -1,1 +1,13 @@
-streamlit>=1.26.0
+# Core Libraries
+streamlit
+pandas
+pydantic
+python-dotenv
+
+# OpenAI Integration
+langchain
+langchain-core
+google-generativeai
+# Image Processing
+Pillow
+genai
