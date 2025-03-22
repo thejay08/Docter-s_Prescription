@@ -1,9 +1,6 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 📦 Doctor's Prescription OCR and No. of Count of Medicines
 
-Description of the app ...
+This is the app for helpful who have to problem to seaarch the medicine's so they just to upload the Doctor's Prescription in this app and the app find's the medicine name and how many count's of medicine is there.
 
 ## Demo App
 
