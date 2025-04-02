@@ -4,7 +4,7 @@ This is the app for helpful who have to problem to seaarch the medicine's so the
 
 ## Demo App
 
-[![Streamlit App](https://doctor-s-prescription.streamlit.app/)]
+[![Streamlit App](https://github.com/codespaces/badge.svg)](https://doctor-s-prescription.streamlit.app/)
 
 ## GitHub Codespaces
 
